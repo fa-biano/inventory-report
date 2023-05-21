@@ -1,6 +1,6 @@
 # 📃 Projeto Inventory Report!
 
-Esse projeto implementa a leitura de arquivos com dados de produtos estocados e gera um relatório. </br>
+Esse projeto implementa a leitura de arquivos com dados de produtos armazenados e gera um relatório de estoque. </br>
 Os arquivos podem estar nas extensões .csv, .xml ou .json. Ao executar o comando de gerar o relatório no terminal o algoritmo irá identificar a extensão do arquivo automaticamente e realizará o relatório chamando a classe com as funções apropriadas para o arquivo.
 
 Exemplo de relatório gerado: </br>
