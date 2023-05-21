@@ -16,7 +16,7 @@ Exemplo de relatório gerado: </br>
 `- REMEDYREPACK: 1` </br>
 
 
-O principal bjetivo desse projeto foi treinar habilidades como:
+O principal objetivo desse projeto foi treinar habilidades como:
 
 * Realizar a manipulação de arquivos.
 * Utilizar o Paradigma de Orientação a Objetos e seus conceitos em Python.
