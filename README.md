@@ -45,4 +45,4 @@ O desenvolvimento desse projeto foi realizado durante o curso de Desenvolvimento
   
   Exemplo: `inventory_report inventory_report/data/inventory.csv completo`
 
-  *Obs: Existem 3 arquivos disponíveis para avaliação dentro da pasta inventory_report/data com as extensões .csv, .xml e .json. E 2 opções de relatórios (simples e completo).*
+  *Obs: Existem 3 arquivos disponíveis para avaliação dentro do diretório inventory_report/data com as extensões .csv, .xml e .json. E 2 opções de relatórios (simples e completo).*
