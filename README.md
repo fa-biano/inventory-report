@@ -1,18 +1,18 @@
-# 💡 Projeto Inventory Report!
+# 📃 Projeto Inventory Report!
 
 Esse projeto implementa a leitura de arquivos com dados de produtos estocados e gera um relatório.
 Os arquivos podem estar nas extensões .csv, .xml ou .json. Ao executar o comando de gerar o relatório no terminal o algoritmo irá identificar a extensão do arquivo automaticamente e realizará o relatório chamando a classe com as funções apropriadas para o arquivo.
 
-Exemplo de relatório gerado:
-`Data de fabricação mais antiga: 2020-09-06`
-`Data de validade mais próxima: 2023-09-17`
-`Empresa com mais produtos: Target Corporation`
-`Produtos estocados por empresa:`
-`- Target Corporation: 4`
-`- Galena Biopharma: 2`
-`- Cantrell Drug Company: 2`
-`- Moore Medical LLC: 1`
-`- REMEDYREPACK: 1`
+Exemplo de relatório gerado: </br>
+`Data de fabricação mais antiga: 2020-09-06` </br>
+`Data de validade mais próxima: 2023-09-17` </br>
+`Empresa com mais produtos: Target Corporation` </br>
+`Produtos estocados por empresa:` </br>
+`- Target Corporation: 4` </br>
+`- Galena Biopharma: 2` </br>
+`- Cantrell Drug Company: 2` </br>
+`- Moore Medical LLC: 1` </br>
+`- REMEDYREPACK: 1` </br>
 
 
 O principal objetivo foi treinar habilidades como:
